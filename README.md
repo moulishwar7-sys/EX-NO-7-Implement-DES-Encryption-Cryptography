@@ -1,4 +1,6 @@
 # EX-NO-7-Implement-DES-Encryption
+### NAME : MOULISHWAR G
+### REGISTER NUMBER : 2305001020
 
 ## Aim:
 
@@ -43,6 +45,9 @@ int main(){
 
 
 ## Output:
+
+<img width="544" height="263" alt="image" src="https://github.com/user-attachments/assets/54ef7f91-9d48-4bf1-b740-467a85b228fa" />
+
 
 
 
